@@ -7,7 +7,7 @@ Hi! I'm **Walid Hosni**, Founder & CEO with 30+ years of experience in corporate
 ## 🚀 About Me
 
 - **Founder & CEO** – Leading innovative SaaS and fintech products from concept to market
-- 💻 **Full-Stack Developer** – Specializing in Next.js for web and Flutter for mobile
+- 💻 **Full-Stack Developer** – Specialising in Next.js for web and Flutter for mobile
 - 🏢 **Enterprise Background** – 30 years driving corporate development and digital transformation initiatives
 - 🌟 **Open-Source Advocate** – Contributing meaningful projects to the developer community
 - 🎯 **Product-Focused** – Building solutions with user experience, scalability, and compliance at the core
@@ -23,7 +23,7 @@ Hi! I'm **Walid Hosni**, Founder & CEO with 30+ years of experience in corporate
 
 ### Mobile Development
 - **Flutter/Dart** – Cross-platform mobile applications with native performance
-- **Swift** – Native iOS optimization
+- **Swift** – Native iOS optimisation
 
 ### Backend & Systems
 - **C++** – Systems programming and high-performance computing
@@ -42,28 +42,29 @@ Hi! I'm **Walid Hosni**, Founder & CEO with 30+ years of experience in corporate
 
 ## 📊 Featured Projects
 
-### 🏢 [UK Formify](https://github.com/walidhosni/uk-formify)
+### 🏢 UK Formify
 **Production-Ready UK Company Formation SaaS**
 
 A comprehensive platform designed for corporate services management and UK company incorporation:
 
 **Key Features:**
 - 🧙 **Multi-step Wizard** – Intuitive, guided company formation process
-- 🔐 **Didit v3 KYC Integration** – Enterprise-grade identity verification
+- 🔐 **V3 KYC System** – Enterprise-grade identity verification
 - 📊 **Searchable SIC Codes** – 2026 UK industry classification database
 - 💳 **Stripe Payments** – Secure payment processing and invoicing
 - 📈 **Admin Dashboard** – Comprehensive management tools for corporate operations
 - 🌐 **Regulatory Compliance** – Full UK company formation standards
 
 **Tech Stack:** Next.js, JavaScript, HTML, Python backend  
-**Status:** Production-ready with live users
+**Status:** Production-ready with live users  
+**Repository:** Private project
 
 ---
 
-### 💱 [GXEGY](https://www.gxegy.co.uk/)
+### 💱 GXEGY
 **Global Fintech Platform for International Payments & Digital Banking**
 
-A cutting-edge fintech solution revolutionizing cross-border payments and financial services:
+A cutting-edge fintech solution revolutionising cross-border payments and financial services:
 
 **Key Features:**
 - 🌍 **International Money Transfers** – Fast, secure, and affordable global payments
@@ -72,18 +73,19 @@ A cutting-edge fintech solution revolutionizing cross-border payments and financ
 - 📱 **Mobile-First Experience** – Fully responsive mobile and web applications
 - 🏢 **Business Banking** – Tailored SME solutions with automated accounting and analytics
 - 🔐 **Payment Gateway** – Accept payments globally with enterprise-grade security
-- 💡 **Financial Inclusion** – Empowering expats, travelers, and businesses worldwide
+- 💡 **Financial Inclusion** – Empowering expats, travellers, and businesses worldwide
 
 **Tech Stack:** Next.js, Flutter, JavaScript, modern cloud infrastructure  
 **Status:** Live platform serving thousands of users globally  
-**Impact:** Seamless payments, low fees, excellent UX for international financial services
+**Impact:** Seamless payments, low fees, excellent UX for international financial services  
+**Repository:** Private project
 
 ---
 
 ## 🎯 What I'm Building
 
 - 🚀 **SaaS Solutions** – Production-ready platforms solving real market needs
-- 💱 **Fintech Platforms** – Democratizing global payments and financial access
+- 💱 **Fintech Platforms** – Democratising global payments and financial access
 - 📱 **Cross-Platform Apps** – Mobile-first experiences with Flutter
 - 🌐 **Web Applications** – Scalable, performant systems with Next.js
 - 🔧 **Enterprise Tools** – Complex admin systems and dashboards
@@ -107,10 +109,9 @@ A cutting-edge fintech solution revolutionizing cross-border payments and financ
 I'm always interested in collaborating on innovative projects, discussing SaaS and fintech strategy, or exploring emerging technologies.
 
 - 💼 **LinkedIn:** [linkedin.com/in/walidhosni/](https://www.linkedin.com/in/walidhosni/)
-- 🌐 **GXEGY:** [gxegy.co.uk](https://www.gxegy.co.uk/) – Global fintech platform
 - 💬 **GitHub:** Check out my repositories for detailed code samples
 - ⭐ **Open to Collaboration** – Reach out for partnerships and discussions
-- 📧 **Business Inquiries** – Happy to discuss new opportunities
+- 📧 **Business Enquiries** – Happy to discuss new opportunities
 
 ---
 
