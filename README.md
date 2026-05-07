@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile
 
-Hi! I'm **Walid Hosni**, Founder & CEO with 30+ years of experience in corporate development, web, and mobile technologies. I'm passionate about building scalable, production-ready solutions that solve real business problems and drive financial inclusion globally.
+Hi! I'm **Dr. Walid Hosni**, Founder & CEO with 30+ years of experience in corporate development, web, and mobile technologies. I'm passionate about building scalable, production-ready solutions that solve real business problems and drive financial inclusion globally.
 
 ---
 
